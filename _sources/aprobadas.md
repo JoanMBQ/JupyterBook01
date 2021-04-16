@@ -1,10 +1,12 @@
 # Materias aprobadas
 
+
 En está página se mostraran las materias que se han aprobado hasta el momento en la carrera de Ciencias de la Computación.
 
 ***
 
 ### Ciclo I
+
 - Fundamentos Computacionales
 - Fundamentos Matemáticos
 - Humanismo, Universidad y Cultura
@@ -13,6 +15,7 @@ En está página se mostraran las materias que se han aprobado hasta el momento 
 - Estructuras Discretas
 
 ### Ciclo II
+
 - Física Básica
 - Álgebra  Lineal
 - Análisis Matemático Univariado
@@ -20,6 +23,7 @@ En está página se mostraran las materias que se han aprobado hasta el momento 
 - Programación Orientada a Objetos
 
 ### Ciclo III
+
 - Ecuaciones Diferenciales y Métodos Numéricos
 - Lógica Digital
 - Fundamentos de Base de Datos
@@ -28,6 +32,7 @@ En está página se mostraran las materias que se han aprobado hasta el momento 
 - Prácticum 1.1
 
 ### Ciclo IV
+
 - Arquitectura y Organización de Computadores
 - Análisis de Algoritmos
 - Base de Datos Avanzada
@@ -36,6 +41,7 @@ En está página se mostraran las materias que se han aprobado hasta el momento 
 - Prácticum 1.2
 
 ### Ciclo V
+
 - Sistemas Operativos
 - Introducción a la Inteligencia de Negocios
 - Ingeniería Web
