@@ -1,7 +1,4 @@
 Mi primer Jupyter Book
 ============================
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-**DEMO**
+**DEMO** de como usar Jupyter Book.
