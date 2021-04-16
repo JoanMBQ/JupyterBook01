@@ -1,5 +1,4 @@
-Content in Jupyter Book
+Listado de Materias
 =======================
 
-There are many ways to write content in Jupyter Book. This short section
-covers a few tips for how to do so.
+Aquí se hará un repaso de todas las materias de la carrera de Ciencias de la Computación, dividiendolas en **aprobadas** y **por aprobar**.
